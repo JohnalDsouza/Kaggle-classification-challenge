@@ -9,3 +9,4 @@ This challenge is part of the Deep Learning course offered by University of Sieg
 The dataset consist of 8 classes consisting of Christmas Objects such as Christmas Cookies, Christmas Presents, Christmas Tree, Fireworks, penguin, reindeer, Santa, Snowman.
 The model used was Efficientnet_b4.  
 <br>
+Link to Challenge: https://kaggle.com/competitions/deep-learning-classification-challenge
