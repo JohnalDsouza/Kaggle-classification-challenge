@@ -1,5 +1,5 @@
 ## Kaggle Deep Learning Classification Challenge
-<br
+<br>
 This challenge is part of the Deep Learning course offered by University of Siegen, Germany. Our model scored 98.1% accuracy on the Leaderboard, ranking us in the 4th place.
 <br>
 <div align="center">
