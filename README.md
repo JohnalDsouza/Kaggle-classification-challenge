@@ -1,1 +1,1 @@
-# Kaggle-classification
+## Kaggle Deep Learning Classification Challenge
